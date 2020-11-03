@@ -1,0 +1,2 @@
+# simplejsapp
+Simple javascript app
